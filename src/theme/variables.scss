@@ -38,9 +38,16 @@ $colors: (
   secondary:  #32db64,
   danger:     #f53d3d,
   light:      #f4f4f4,
-  dark:       #222
+  dark:       #222,
+  moise:      #bad865,
+  gaston:     #fef8ac
 );
 
+$toolbar-background: color($colors, moise);
+
+//ion-side-menu.menu-left.menu {
+//  background-color: #5B6166 !important;
+//}
 
 // App iOS Variables
 // --------------------------------------------------
